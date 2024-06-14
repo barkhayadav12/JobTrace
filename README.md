@@ -1,5 +1,5 @@
 # JobTrace
-<img width="955" alt="Screenshot 2024-01-29 101946" src="https://github.com/barkhayadav12/FurryMate/assets/143165059/a21799e1-9b33-4f51-982d-eacdc138841b">
+<img width="955" alt="Screenshot 2024-01-29 101946" src="https://github.com/barkhayadav12/JobTrace/assets/143165059/41f224cd-3bcb-41eb-8d4a-f870920a111f">
 <p align="center">
   <h3 align="center">JobTrace</h3>
   

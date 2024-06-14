@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.changeOutline input:focus{
+  outline:none;
+}
+.guide{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  margin-top: 5px;
+}
+.options{
+  display: flex;
+  padding-left: 10px;
+}

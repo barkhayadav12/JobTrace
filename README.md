@@ -1,5 +1,5 @@
 # JobTrace
-<img width="955" alt="Screenshot 2024-01-29 101946" src="https://github.com/barkhayadav12/JobTrace/assets/143165059/41f224cd-3bcb-41eb-8d4a-f870920a111f">
+<img width="955" alt="Screenshot 2024-01-29 101946" src="https://github.com/barkhayadav12/JobTrace/assets/143165059/9d4ae7db-f206-42c8-8f6a-06df3ddd3b81">
 <p align="center">
   <h3 align="center">JobTrace</h3>
   
